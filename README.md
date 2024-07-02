@@ -17,13 +17,6 @@ Soy un desarrollador web y diseñador en proceso, me especializo en el FrontEnd 
   - Figma <img style="width:1rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
   
 
-<Br>
-<hr>
-<Br>
-<!--<h1>Mis proyectos personales y escolares 🎨</h1>
-<Br>-->
-  
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
 
   
 <Br>
