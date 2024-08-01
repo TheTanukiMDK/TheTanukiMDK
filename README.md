@@ -1,4 +1,4 @@
-![Ricardo](https://github.com/user-attachments/assets/76253dca-9799-46fa-9c8c-d272909501fe)# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> 
+ Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> 
 
 
 ![Adia](https://github.com/Reledlatice1/Reledlatice1/assets/132579391/501c4bf4-e939-4177-bbcc-d31b0135cae8)
