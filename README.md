@@ -4,7 +4,7 @@
 ![Adia](https://github.com/user-attachments/assets/fb3b6354-374c-4089-96b2-ac798af96bb0)
 
 
-Soy un desarrollador web y diseñador en proceso, me especializo en el FrontEnd y diseño de interfaz de una pagina web, He trabajado en mucho proyectos tanto personales como escolares. Me considero una persona que trabaja de forma independiente teniendo mis horarios y tiempos establecidos por mi para mayor comodidad.![Uploading Your Text.png…]()
+Soy un desarrollador web y diseñador en proceso, me especializo en el FrontEnd y diseño de interfaz de una pagina web, He trabajado en mucho proyectos tanto personales como escolares. Me considero una persona que trabaja de forma independiente teniendo mis horarios y tiempos establecidos por mi para mayor comodidad.
 
 
 
