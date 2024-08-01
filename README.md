@@ -14,7 +14,7 @@ Soy un desarrollador web y diseñador en proceso, me especializo en el FrontEnd 
   - CSS 🖋️
   - JavaScript <img style="width:1rem" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"/>
   - ReactJS   <img style="width:1rem" src="https://cdn.iconscout.com/icon/free/png-256/logo-1889531-1597591.png?f=webp&w=256"/>
-  - Boostrap <img style="width:1rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyggfIXgL7LDWEU4pX50EP0QsTxIFVlEl4A&s" />
+  - Bootstrap <img style="width:1rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
   - TailwindCSS <img style="width:1rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
   - Figma <img style="width:1rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
   
