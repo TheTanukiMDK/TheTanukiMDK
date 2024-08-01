@@ -1,9 +1,11 @@
  Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> 
 
 
-![Adia](https://github.com/Reledlatice1/Reledlatice1/assets/132579391/501c4bf4-e939-4177-bbcc-d31b0135cae8)
+![Adia](https://github.com/user-attachments/assets/fb3b6354-374c-4089-96b2-ac798af96bb0)
 
-Soy un desarrollador web y diseñador en proceso, me especializo en el FrontEnd y diseño de interfaz de una pagina web, He trabajado en mucho proyectos tanto personales como escolares. Me considero una persona que trabaja de forma independiente teniendo mis horarios y tiempos establecidos por mi para mayor comodidad.
+
+Soy un desarrollador web y diseñador en proceso, me especializo en el FrontEnd y diseño de interfaz de una pagina web, He trabajado en mucho proyectos tanto personales como escolares. Me considero una persona que trabaja de forma independiente teniendo mis horarios y tiempos establecidos por mi para mayor comodidad.![Uploading Your Text.png…]()
+
 
 
 ## **Habilidades**
