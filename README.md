@@ -4,7 +4,7 @@
 ![Adia](https://github.com/user-attachments/assets/fb3b6354-374c-4089-96b2-ac798af96bb0)
 
 
-Soy un desarrollador web y diseñador en proceso, me especializo en el diseño de interfaz de una pagina web, He trabajado en mucho proyectos tanto personales como escolares. Me considero una persona que trabaja de forma independiente teniendo mis horarios y tiempos establecidos por mi para mayor comodidad.
+Hola, me llamo Adia, Soy un diseñador UX/UI en proceso, me dedico a diseñar la interfaz de usuario de una aplicacion web en mockups y en codigo, hago diseños lo mas simple pero a su vez que sean intuitivos y agradables para el usuario ofreciendole una gran experiencia de usuario, el diseño es la parte que mas me relaja y me puedo entretener por muchas horas sin darme cuenta. Cuento con conocimientos demasiados basicos sobre la programacion, puedo programar pocas cosas ya que no cuento con mucha logica de programacion lo cual solo puedo realizar cosas muy basicas (Un CRUD por ejemplo).
 
 
 
@@ -18,16 +18,25 @@ Soy un desarrollador web y diseñador en proceso, me especializo en el diseño d
   - TailwindCSS <img style="width:1rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
   - Figma <img style="width:1rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
   
+------
 
-
+  <h2>Stats</h2>
+  <br />
+  <a href="https://github.com/TheTanukiMDK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTanukiMDK&theme=dark&hide_langs_below=1" />
+  </a>
   
+  <a href="https://github.com/TheTanukiMDK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheTanukiMDK&show_icons=true&theme=dracula&line_width=27" alt="**Adia** github stats" />
+  </a>
+</div>
+</body>
+
 <Br>
 <hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
-
-------
   
 Credit: [Aryagm](https://github.com/Aryagm)
 Last Edited on: 01/07/2024
