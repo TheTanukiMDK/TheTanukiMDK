@@ -39,4 +39,4 @@ Hola, me llamo Adia, Soy un diseñador UX/UI en proceso, me dedico a diseñar la
 <Br>
   
 Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 01/07/2024
+Last Edited on: 28/11/2024
