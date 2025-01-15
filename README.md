@@ -4,7 +4,7 @@
 ![Adia](https://github.com/user-attachments/assets/fb3b6354-374c-4089-96b2-ac798af96bb0)
 
 
-Hola, me llamo Adia, Soy un diseñador UX/UI en proceso, me dedico a diseñar la interfaz de usuario de una aplicacion web en mockups y en codigo, hago diseños lo mas simple pero a su vez que sean intuitivos y agradables para el usuario ofreciendole una gran experiencia de usuario, el diseño es la parte que mas me relaja y me puedo entretener por muchas horas sin darme cuenta. Cuento con conocimientos demasiados basicos sobre la programacion, puedo programar pocas cosas ya que no cuento con mucha logica de programacion lo cual solo puedo realizar cosas muy basicas (Un CRUD por ejemplo).
+Hola, me llamo Adia, Soy un diseñador UX/UI en proceso, me dedico a diseñar la interfaz de usuario de una aplicacion web en mockups y en codigo, hago diseños lo mas simple pero a su vez que sean intuitivos y agradables para el usuario ofreciendole una gran experiencia de usuario, el diseño es la parte que mas me relaja y me puedo entretener por muchas horas sin darme cuenta. Cuento con conocimientos demasiados basicos sobre la programacion, puedo programar pocas cosas ya que no cuento con mucha logica de programacion lo cual solo puedo realizar cosas muy basicas (Un CRUD por ejemplo) con ayuda de la IA ya que tambien tengo experiencia manejando la IA lo cual se muy bien como darle las instrucciones correctamente y verificar si el codigo que genero es correcto o no.
 
 
 
