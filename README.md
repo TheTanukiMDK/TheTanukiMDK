@@ -1,12 +1,11 @@
  Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> 
 
 
-![Adia](https://github.com/user-attachments/assets/fb3b6354-374c-4089-96b2-ac798af96bb0)
+![Adia](https://github.com/user-attachments/assets/26c54013-c04a-435a-9eac-1013dff229c3)
 
 
-Hola, me llamo Adia, Soy un diseñador UX/UI en proceso, me dedico a diseñar la interfaz de usuario de una aplicacion web en mockups y en codigo, hago diseños lo mas simple pero a su vez que sean intuitivos y agradables para el usuario ofreciendole una gran experiencia de usuario, el diseño es la parte que mas me relaja y me puedo entretener por muchas horas sin darme cuenta. Cuento con conocimientos demasiados basicos sobre la programacion, puedo programar pocas cosas ya que no cuento con mucha logica de programacion lo cual solo puedo realizar cosas muy basicas (Un CRUD por ejemplo) con ayuda de la IA ya que tambien tengo experiencia manejando la IA lo cual se muy bien como darle las instrucciones correctamente y verificar si el codigo que genero es correcto o no.
 
-
+Hola bienvenido, yo soy Adia y soy un diseñador UX/UI, llevo ya un año diseñando sitios y aplicaciones web, ademas he ayudado durante la planeacion y desarrollo de proyectos lo cual he adquirido una gran experiencia en el desarrollo, ademas de diseño cuento con conocimientos basicos sobre el desarrollo de FrontEnd, disfruto mucho realizando el diseño de las interfaces de usuario usando un estilo minimalista pero agradables ofreciendo una buena experiencia de usuario.
 
 ## **Habilidades**
 
@@ -22,11 +21,11 @@ Hola, me llamo Adia, Soy un diseñador UX/UI en proceso, me dedico a diseñar la
 
   <h2>Stats</h2>
   <br />
-  <a href="https://github.com/TheTanukiMDK">
+  <a href="https://github.com/TnkCatDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTanukiMDK&theme=dark&hide_langs_below=1" />
   </a>
   
-  <a href="https://github.com/TheTanukiMDK">
+  <a href="https://github.com/TnkCatDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheTanukiMDK&show_icons=true&theme=dracula&line_width=27" alt="**Adia** github stats" />
   </a>
 </div>
