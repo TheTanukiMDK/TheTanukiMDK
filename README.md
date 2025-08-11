@@ -5,17 +5,33 @@
 
 
 
-Hola bienvenido, yo soy Adia y soy un diseñador UX/UI, llevo ya un año diseñando sitios y aplicaciones web, ademas he ayudado durante la planeacion y desarrollo de proyectos lo cual he adquirido una gran experiencia en el desarrollo, ademas de diseño cuento con conocimientos basicos sobre el desarrollo de FrontEnd, disfruto mucho realizando el diseño de las interfaces de usuario usando un estilo minimalista pero agradables ofreciendo una buena experiencia de usuario.
+Hola bienvenido, yo soy Adia soy diseñador UX/UI apasionado con la tecnologia, Me considero una persona proactiva que siempre toma la iniciativa, me adapto muy facil ante cualquier ambiente de trabajo y siempre estoy dispuesto a ayudar en cualquier trabajo que se me solicite.
 
-## **Habilidades**
+---
 
-  - HTML 📄
-  - CSS 🖋️
-  - JavaScript <img style="width:1rem" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"/>
-  - ReactJS   <img style="width:1rem" src="https://cdn.iconscout.com/icon/free/png-256/logo-1889531-1597591.png?f=webp&w=256"/>
-  - Bootstrap <img style="width:1rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
-  - TailwindCSS <img style="width:1rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
-  - Figma <img style="width:1rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
+### 💻 Tecnologías y Herramientas
+
+Aquí están algunas de las tecnologías con las que trabajo:
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%398BED?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+
+
+---
+
+### 💼 Experiencia Destacada
+
+*   **Proyectos Escolares** en Universidad Tecnologia de Cancun UT (Sept 2022 - Presente)
+    *   Diseño e implementación de APIs REST con FastAPI y pruebas unitarias.
+    *   Desarrollo de arquitectura de microservicios y módulos Odoo personalizados.
+*   **Cluster Soporte de TI** en Hilton Cancun, an All-Inclusive Resort & Waldorf Astoria Rivera Maya (May 2025 - Ago 2025)
+    *   Soporte de sistemas del hotel, atencion a usuarios, apoyo a diferentes actividades de IT.
   
 ------
 
