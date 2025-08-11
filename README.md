@@ -28,8 +28,8 @@ Aquí están algunas de las tecnologías con las que trabajo:
 ### 💼 Experiencia Destacada
 
 *   **Proyectos Escolares** en Universidad Tecnologia de Cancun UT (Sept 2022 - Presente)
-    *   Diseño e implementación de APIs REST con FastAPI y pruebas unitarias.
-    *   Desarrollo de arquitectura de microservicios y módulos Odoo personalizados.
+    *   Diseño de interfaces de usuario.
+    *   Desarrollo FrontEnd de proyectos.
 *   **Cluster Soporte de TI** en Hilton Cancun, an All-Inclusive Resort & Waldorf Astoria Rivera Maya (May 2025 - Ago 2025)
     *   Soporte de sistemas del hotel, atencion a usuarios, apoyo a diferentes actividades de IT.
   
