@@ -15,7 +15,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%398BED?style=for-the-badge&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%738EFF?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -35,15 +35,11 @@ Aquí están algunas de las tecnologías con las que trabajo:
   
 ------
 
-  <h2>Stats</h2>
-  <br />
-  <a href="https://github.com/TnkCatDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTanukiMDK&theme=dark&hide_langs_below=1" />
-  </a>
-  
-  <a href="https://github.com/TnkCatDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheTanukiMDK&show_icons=true&theme=dracula&line_width=27" alt="**Adia** github stats" />
-  </a>
+  ### 📊 My Stats
+![Adia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTanukiMDK&show_icons=true&theme=black_pine&title_color=FFFFFF&icon_color=5E00C4&text_color=E2D6FF&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTanukiMDK&layout=compact&theme=black_pine&title_color=FFFFFF&text_color=E2D6FF&bg_color=000000)
+
+
 </div>
 </body>
 
