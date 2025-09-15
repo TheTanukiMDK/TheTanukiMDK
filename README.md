@@ -30,7 +30,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 *   **Proyectos Escolares** en Universidad Tecnologia de Cancun UT (Sept 2022 - Presente)
     *   Diseño de interfaces de usuario.
     *   Desarrollo FrontEnd de proyectos.
-*   **Cluster Soporte de TI** en Hilton Cancun, an All-Inclusive Resort & Waldorf Astoria Rivera Maya (May 2025 - Ago 2025)
+*   **Cluster Soporte de IT** en Hilton Cancun, an All-Inclusive Resort & Waldorf Astoria Rivera Maya (May 2025 - Ago 2025)
     *   Soporte de sistemas del hotel, atencion a usuarios, apoyo a diferentes actividades de IT.
   
 ------
